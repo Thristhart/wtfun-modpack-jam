@@ -5339,3 +5339,61 @@ DEBUG	Status loading succeeded.
  INFO	"Status JSON" succeeded. 
 DEBUG	Finished loading status JSON. 
 DEBUG	Status loading succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+DEBUG	Processing authentication response. 
+DEBUG	Getting new access token. 
+DEBUG	Finished reading refresh response. 
+ INFO	Task succeeded 
+ INFO	Writing account list to "accounts.json" 
+DEBUG	Building JSON data structure. 
+DEBUG	Building account array. 
+DEBUG	Writing account list to file. 
+ INFO	Saved account list to "accounts.json" 
+ INFO	"wtfun_modpack_jam" : downloading libraries 
+ INFO	Reading version.json 
+ INFO	Reading "net.minecraftforge.json" 
+ INFO	Reading version.json 
+ INFO	"Libraries for instance wtfun_modpack_jam"  started. 
+ INFO	"Libraries for instance wtfun_modpack_jam" progress: 1 / 1 
+ INFO	"Libraries for instance wtfun_modpack_jam" succeeded. 
+ INFO	"Asset index for wtfun_modpack_jam"  started. 
+ INFO	"Asset index for wtfun_modpack_jam" progress: 1 / 1 
+ INFO	"Asset index for wtfun_modpack_jam" succeeded. 
+ INFO	Task succeeded 
+DEBUG	reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/legacy" 
+ INFO	Reconstructing virtual assets folder at "assets/virtual/legacy" 

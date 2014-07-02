@@ -52,3 +52,16 @@
 2014-07-01 19:29:29 [SERVER] [INFO] Preparing spawn area: 86%
 2014-07-01 19:29:30 [SERVER] [INFO] Thristhart[/127.0.0.1:0] logged in with entity id 0 at (865.5, 56.0, -1286.5)
 2014-07-01 19:29:30 [SERVER] [INFO] Thristhart joined the game
+2014-07-01 19:29:39 [SERVER] [INFO] Saving and pausing game...
+2014-07-01 19:29:39 [SERVER] [INFO] Saving chunks for level 'Modpack world'/Overworld
+2014-07-01 19:29:40 [SERVER] [INFO] Saving chunks for level 'Modpack world'/Nether
+2014-07-01 19:29:40 [SERVER] [INFO] Saving chunks for level 'Modpack world'/The End
+2014-07-01 19:29:40 [SERVER] [INFO] Thristhart lost connection: disconnect.quitting
+2014-07-01 19:29:40 [SERVER] [INFO] Thristhart left the game
+2014-07-01 19:29:40 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2014-07-01 19:29:40 [SERVER] [INFO] Stopping server
+2014-07-01 19:29:40 [SERVER] [INFO] Saving players
+2014-07-01 19:29:40 [SERVER] [INFO] Saving worlds
+2014-07-01 19:29:40 [SERVER] [INFO] Saving chunks for level 'Modpack world'/Overworld
+2014-07-01 19:29:40 [SERVER] [INFO] Saving chunks for level 'Modpack world'/Nether
+2014-07-01 19:29:40 [SERVER] [INFO] Saving chunks for level 'Modpack world'/The End

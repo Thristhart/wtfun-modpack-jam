@@ -55,3 +55,4 @@ DEBUG	Status loading succeeded.
  INFO	"GoUpdate Repository Index" succeeded. 
 DEBUG	Finished downloading repo index. Checking for new versions. 
 DEBUG	Processing repository version list. 
+ INFO	Loaded LWJGL list. 

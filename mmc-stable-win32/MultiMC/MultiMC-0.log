@@ -56,3 +56,4 @@ DEBUG	Status loading succeeded.
 DEBUG	Finished downloading repo index. Checking for new versions. 
 DEBUG	Processing repository version list. 
  INFO	Loaded LWJGL list. 
+DEBUG	"instances/wtfun_modpack_jam" 

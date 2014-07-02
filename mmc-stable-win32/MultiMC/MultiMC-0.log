@@ -57,3 +57,24 @@ DEBUG	Finished downloading repo index. Checking for new versions.
 DEBUG	Processing repository version list. 
  INFO	Loaded LWJGL list. 
 DEBUG	"instances/wtfun_modpack_jam" 
+DEBUG	Processing authentication response. 
+DEBUG	Getting client token. 
+DEBUG	Getting access token. 
+DEBUG	Loading profile list. 
+DEBUG	Setting current profile. 
+DEBUG	Finished reading authentication response. 
+ INFO	Task succeeded 
+ INFO	Writing account list to "accounts.json" 
+DEBUG	Building JSON data structure. 
+DEBUG	Building account array. 
+DEBUG	Writing account list to file. 
+ INFO	Saved account list to "accounts.json" 
+ INFO	Writing account list to "accounts.json" 
+DEBUG	Building JSON data structure. 
+DEBUG	Building account array. 
+DEBUG	Writing account list to file. 
+ INFO	Saved account list to "accounts.json" 
+ INFO	"Player skins: thristhart@gmail.com"  started. 
+ INFO	Downloading  "http://skins.minecraft.net/MinecraftSkins/Thristhart.png" 
+ INFO	"Player skins: thristhart@gmail.com" progress: 1 / 1 
+ INFO	"Player skins: thristhart@gmail.com" succeeded. 

@@ -5427,3 +5427,11 @@ DEBUG	Status loading succeeded.
  INFO	"Status JSON" succeeded. 
 DEBUG	Finished loading status JSON. 
 DEBUG	Status loading succeeded. 
+ INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/resourcepacks" 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 

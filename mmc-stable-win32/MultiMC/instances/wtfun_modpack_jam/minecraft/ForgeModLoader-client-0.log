@@ -1259,3 +1259,60 @@ aoi=[aoi : aoi => net.minecraft.block.BlockFire (true) size 9397]
 2014-07-01 19:14:43 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
 2014-07-01 19:14:43 [INFO] [STDOUT] OpenAL initialized.
 2014-07-01 19:14:44 [INFO] [STDOUT] 
+2014-07-01 19:15:23 [INFO] [Minecraft-Server] Starting integrated minecraft server version 1.6.4
+2014-07-01 19:15:23 [INFO] [Minecraft-Server] Generating keypair
+2014-07-01 19:15:24 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2014-07-01 19:15:24 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2014-07-01 19:15:24 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2014-07-01 19:15:24 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2014-07-01 19:15:24 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2014-07-01 19:15:24 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2014-07-01 19:15:24 [FINEST] [MapMakingTools] Sending event FMLServerAboutToStartEvent to mod MapMakingTools
+2014-07-01 19:15:24 [FINEST] [MapMakingTools] Sent event FMLServerAboutToStartEvent to mod MapMakingTools
+2014-07-01 19:15:24 [FINEST] [HardcoreQuesting] Sending event FMLServerAboutToStartEvent to mod HardcoreQuesting
+2014-07-01 19:15:24 [FINEST] [HardcoreQuesting] Sent event FMLServerAboutToStartEvent to mod HardcoreQuesting
+2014-07-01 19:15:24 [INFO] [Minecraft-Server] Converting map!
+2014-07-01 19:15:24 [INFO] [Minecraft-Server] Scanning folders...
+2014-07-01 19:15:24 [INFO] [Minecraft-Server] Total conversion count is 0
+2014-07-01 19:15:24 [FINE] [fml.ItemTracker] The difference set is equal
+2014-07-01 19:15:24 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/gen/MapGenCaves (input size 3540), found 1 patch
+2014-07-01 19:15:24 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/gen/MapGenCaves (new size 5863)
+2014-07-01 19:15:24 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/gen/structure/StructureVillagePieces (input size 4892), found 1 patch
+2014-07-01 19:15:24 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/gen/structure/StructureVillagePieces (new size 6504)
+2014-07-01 19:15:24 [INFO] [ForgeModLoader] Loading dimension 0 (Test world) (net.minecraft.server.integrated.IntegratedServer@3c5c6a1)
+2014-07-01 19:15:24 [INFO] [ForgeModLoader] Loading dimension 1 (Test world) (net.minecraft.server.integrated.IntegratedServer@3c5c6a1)
+2014-07-01 19:15:24 [INFO] [ForgeModLoader] Loading dimension -1 (Test world) (net.minecraft.server.integrated.IntegratedServer@3c5c6a1)
+2014-07-01 19:15:24 [INFO] [Minecraft-Server] Preparing start region for level 0
+2014-07-01 19:15:25 [INFO] [Minecraft-Server] Preparing spawn area: 8%
+2014-07-01 19:15:26 [INFO] [Minecraft-Server] Preparing spawn area: 19%
+2014-07-01 19:15:28 [INFO] [Minecraft-Server] Preparing spawn area: 32%
+2014-07-01 19:15:29 [INFO] [Minecraft-Server] Preparing spawn area: 44%
+2014-07-01 19:15:30 [INFO] [Minecraft-Server] Preparing spawn area: 56%
+2014-07-01 19:15:31 [INFO] [Minecraft-Server] Preparing spawn area: 67%
+2014-07-01 19:15:32 [INFO] [Minecraft-Server] Preparing spawn area: 77%
+2014-07-01 19:15:33 [INFO] [Minecraft-Server] Preparing spawn area: 88%
+2014-07-01 19:15:34 [INFO] [Minecraft-Server] Preparing spawn area: 99%
+2014-07-01 19:15:34 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2014-07-01 19:15:34 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2014-07-01 19:15:34 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2014-07-01 19:15:34 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2014-07-01 19:15:34 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2014-07-01 19:15:34 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2014-07-01 19:15:34 [FINEST] [MapMakingTools] Sending event FMLServerStartingEvent to mod MapMakingTools
+2014-07-01 19:15:34 [FINEST] [MapMakingTools] Sent event FMLServerStartingEvent to mod MapMakingTools
+2014-07-01 19:15:34 [FINEST] [HardcoreQuesting] Sending event FMLServerStartingEvent to mod HardcoreQuesting
+2014-07-01 19:15:34 [FINEST] [HardcoreQuesting] Sent event FMLServerStartingEvent to mod HardcoreQuesting
+2014-07-01 19:15:34 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2014-07-01 19:15:34 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2014-07-01 19:15:34 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2014-07-01 19:15:34 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2014-07-01 19:15:34 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2014-07-01 19:15:34 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2014-07-01 19:15:34 [FINEST] [MapMakingTools] Sending event FMLServerStartedEvent to mod MapMakingTools
+2014-07-01 19:15:34 [FINEST] [MapMakingTools] Sent event FMLServerStartedEvent to mod MapMakingTools
+2014-07-01 19:15:34 [FINEST] [HardcoreQuesting] Sending event FMLServerStartedEvent to mod HardcoreQuesting
+2014-07-01 19:15:34 [FINEST] [HardcoreQuesting] Sent event FMLServerStartedEvent to mod HardcoreQuesting
+2014-07-01 19:15:34 [INFO] [Minecraft-Server] Thristhart[/127.0.0.1:0] logged in with entity id 287 at (-108.5, 67.0, 125.5)
+2014-07-01 19:15:34 [INFO] [Minecraft-Server] Thristhart joined the game
+2014-07-01 19:15:34 [INFO] [STDOUT] Setting up custom skins
+2014-07-01 19:15:36 [INFO] [Minecraft-Client] [CHAT] This server doesn't have HQM Mode Enabled.

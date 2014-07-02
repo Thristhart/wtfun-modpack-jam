@@ -1,2 +1,4 @@
 *.cfg
 accounts.json
+*.log
+*.lck

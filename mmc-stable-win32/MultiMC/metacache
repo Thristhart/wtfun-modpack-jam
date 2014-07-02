@@ -106,6 +106,13 @@
         },
         {
             "base": "libraries",
+            "etag": "",
+            "last_changed_timestamp": 0,
+            "md5sum": "02efbef58dbd39fccead94777b611fce",
+            "path": "net/minecraftforge/minecraftforge/9.11.1.965/minecraftforge-9.11.1.965.jar"
+        },
+        {
+            "base": "libraries",
             "etag": "\"1372bd4823bb1ef61e7db6724f601150\"",
             "last_changed_timestamp": 1404266571693,
             "md5sum": "1372bd4823bb1ef61e7db6724f601150",
@@ -151,6 +158,30 @@
             "md5sum": "6a0eeaf3451ed9646b7d61a9dd8b86cc",
             "path": "org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar",
             "remote_changed_timestamp": "Tue, 26 Nov 2013 16:00:03 GMT"
+        },
+        {
+            "base": "minecraftforge",
+            "etag": "\"52b13593-22a2a7\"",
+            "last_changed_timestamp": 1404267052958,
+            "md5sum": "0e3726eb0a8a34a73807a751404444e3",
+            "path": "forge-1.6.4-9.11.1.965-installer.jar",
+            "remote_changed_timestamp": "Wed, 18 Dec 2013 05:41:39 GMT"
+        },
+        {
+            "base": "minecraftforge",
+            "etag": "\"53b30e1e-2a7e7\"",
+            "last_changed_timestamp": 1404267032377,
+            "md5sum": "19f0947f77e6a9f91f87e56bb4318faa",
+            "path": "json",
+            "remote_changed_timestamp": "Tue, 01 Jul 2014 19:38:06 GMT"
+        },
+        {
+            "base": "minecraftforge",
+            "etag": "\"52880051-1b37b1\"",
+            "last_changed_timestamp": 1404267034054,
+            "md5sum": "5ddccb46c8ca8c7df913c327ed942360",
+            "path": "list.json",
+            "remote_changed_timestamp": "Sat, 16 Nov 2013 23:31:29 GMT"
         },
         {
             "base": "root",

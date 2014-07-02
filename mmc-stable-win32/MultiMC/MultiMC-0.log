@@ -5206,3 +5206,60 @@ DEBUG	Status loading succeeded.
  INFO	"Status JSON" succeeded. 
 DEBUG	Finished loading status JSON. 
 DEBUG	Status loading succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/resourcepacks" 
+ INFO	"Version index"  started. 
+ INFO	Downloading  "http://files.minecraftforge.net/minecraftforge/json" 
+ INFO	Downloading  "http://files.minecraftforge.net/maven/net/minecraftforge/forge/json" 
+ INFO	"Version index" progress: 1 / 2 
+ INFO	"Version index" progress: 2 / 2 
+ INFO	"Version index" succeeded. 
+ INFO	Task succeeded 
+ INFO	"Forge download"  started. 
+ INFO	Downloading  "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.6.4-9.11.1.965/forge-1.6.4-9.11.1.965-installer.jar" 
+ INFO	"Forge download" progress: 1 / 1 
+ INFO	"Forge download" succeeded. 
+ INFO	Reading version.json 
+ INFO	Reading "net.minecraftforge.json" 
+ INFO	Reading version.json 
+ INFO	Task succeeded 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	Stopped watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	Stopped watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	Stopped watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/resourcepacks" 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 
+ INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/resourcepacks" 
+ INFO	Stopped watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	Stopped watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
+ INFO	Stopped watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/resourcepacks" 

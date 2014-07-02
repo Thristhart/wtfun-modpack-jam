@@ -1,0 +1,13 @@
+{
+    "entries": [
+        {
+            "base": "root",
+            "etag": "",
+            "last_changed_timestamp": 1404266191538,
+            "md5sum": "a8a8094545267c76ad51fe276b0e9e8f",
+            "path": "notifications.json",
+            "remote_changed_timestamp": "Wed, 30 Apr 2014 17:39:21 GMT"
+        }
+    ],
+    "version": "1"
+}

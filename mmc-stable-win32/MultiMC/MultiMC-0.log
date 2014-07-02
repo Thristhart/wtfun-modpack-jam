@@ -5263,3 +5263,34 @@ DEBUG	Status loading succeeded.
  INFO	Started watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
  INFO	Stopped watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/mods" 
  INFO	Stopped watching  "C:/Users/tom/SparkleShare/wtfun-modpack-jam/mmc-stable-win32/MultiMC/instances/wtfun_modpack_jam/minecraft/resourcepacks" 
+DEBUG	Processing authentication response. 
+DEBUG	Getting new access token. 
+DEBUG	Finished reading refresh response. 
+ INFO	Task succeeded 
+ INFO	Writing account list to "accounts.json" 
+DEBUG	Building JSON data structure. 
+DEBUG	Building account array. 
+DEBUG	Writing account list to file. 
+ INFO	Saved account list to "accounts.json" 
+ INFO	"wtfun_modpack_jam" : downloading libraries 
+ INFO	Reading version.json 
+ INFO	Reading "net.minecraftforge.json" 
+ INFO	Reading version.json 
+ INFO	"Libraries for instance wtfun_modpack_jam"  started. 
+ INFO	"Libraries for instance wtfun_modpack_jam" progress: 1 / 5 
+ INFO	Downloading  "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar" 
+ INFO	Downloading  "https://libraries.minecraft.net/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar" 
+ INFO	Downloading  "https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar" 
+ INFO	Downloading  "http://files.minecraftforge.net/mirror-brand.list" 
+ INFO	Updating URL for  "org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar" 
+ INFO	Possible:  "Minecraft Forge"  :  "http://files.minecraftforge.net/maven/" 
+ INFO	Possible:  "Creeper Host"  :  "http://new.creeperrepo.net/forge/maven/" 
+ INFO	Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar.pack.xz" 
+ INFO	Updating URL for  "org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar" 
+ INFO	Possible:  "Minecraft Forge"  :  "http://files.minecraftforge.net/maven/" 
+ INFO	Possible:  "Creeper Host"  :  "http://new.creeperrepo.net/forge/maven/" 
+ INFO	Downloading  "http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar.pack.xz" 
+ INFO	"Libraries for instance wtfun_modpack_jam" progress: 2 / 7 
+ INFO	"Libraries for instance wtfun_modpack_jam" progress: 3 / 7 
+ INFO	"Libraries for instance wtfun_modpack_jam" progress: 4 / 7 
+ INFO	"Libraries for instance wtfun_modpack_jam" progress: 5 / 7 

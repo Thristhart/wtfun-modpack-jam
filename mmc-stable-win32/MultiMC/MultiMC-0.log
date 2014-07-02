@@ -5294,3 +5294,18 @@ DEBUG	Writing account list to file.
  INFO	"Libraries for instance wtfun_modpack_jam" progress: 3 / 7 
  INFO	"Libraries for instance wtfun_modpack_jam" progress: 4 / 7 
  INFO	"Libraries for instance wtfun_modpack_jam" progress: 5 / 7 
+ INFO	"Libraries for instance wtfun_modpack_jam" progress: 6 / 7 
+ INFO	"Libraries for instance wtfun_modpack_jam" progress: 7 / 7 
+ INFO	"Libraries for instance wtfun_modpack_jam" succeeded. 
+ INFO	"Asset index for wtfun_modpack_jam"  started. 
+ INFO	"Asset index for wtfun_modpack_jam" progress: 1 / 1 
+ INFO	"Asset index for wtfun_modpack_jam" succeeded. 
+ INFO	Task succeeded 
+DEBUG	reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/legacy" 
+ INFO	Reconstructing virtual assets folder at "assets/virtual/legacy" 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 

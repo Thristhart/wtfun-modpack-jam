@@ -82,6 +82,14 @@
         },
         {
             "base": "libraries",
+            "etag": "\"a3e3c3186e41c4a1a3027ba2bb23cdc6\"",
+            "last_changed_timestamp": 1404267252421,
+            "md5sum": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+            "path": "lzma/lzma/0.0.1/lzma-0.0.1.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:34 GMT"
+        },
+        {
+            "base": "libraries",
             "etag": "\"b168b014be0186d9e95bf3d263e3a129\"",
             "last_changed_timestamp": 1404266572027,
             "md5sum": "b168b014be0186d9e95bf3d263e3a129",
@@ -106,8 +114,16 @@
         },
         {
             "base": "libraries",
+            "etag": "\"460ffeedae268dc70c8210ce179fa44a\"",
+            "last_changed_timestamp": 1404267252463,
+            "md5sum": "460ffeedae268dc70c8210ce179fa44a",
+            "path": "net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:07 GMT"
+        },
+        {
+            "base": "libraries",
             "etag": "",
-            "last_changed_timestamp": 0,
+            "last_changed_timestamp": 1404267053007,
             "md5sum": "02efbef58dbd39fccead94777b611fce",
             "path": "net/minecraftforge/minecraftforge/9.11.1.965/minecraftforge-9.11.1.965.jar"
         },
@@ -158,6 +174,28 @@
             "md5sum": "6a0eeaf3451ed9646b7d61a9dd8b86cc",
             "path": "org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar",
             "remote_changed_timestamp": "Tue, 26 Nov 2013 16:00:03 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"d21c2a06a4e6b175aa01e328f38a1182\"",
+            "last_changed_timestamp": 1404267252785,
+            "md5sum": "d21c2a06a4e6b175aa01e328f38a1182",
+            "path": "org/ow2/asm/asm-all/4.1/asm-all-4.1.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 16:00:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"524254d5-315a2c\"",
+            "last_changed_timestamp": 1404267266425,
+            "md5sum": "394978b39e24330c067e6fbadf708dcb",
+            "path": "org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"524254ee-1b687c\"",
+            "last_changed_timestamp": 1404267256257,
+            "md5sum": "31c4d881dfc4e32bd313a0da4e7f71ce",
+            "path": "org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar"
         },
         {
             "base": "minecraftforge",

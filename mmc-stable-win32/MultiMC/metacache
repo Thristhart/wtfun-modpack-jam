@@ -1,6 +1,158 @@
 {
     "entries": [
         {
+            "base": "asset_indexes",
+            "etag": "\"73e8c1d4445b71a97dad6161b47b242e\"",
+            "last_changed_timestamp": 1404266578503,
+            "md5sum": "73e8c1d4445b71a97dad6161b47b242e",
+            "path": "legacy.json",
+            "remote_changed_timestamp": "Thu, 28 Nov 2013 10:06:59 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"e9960995974979445b03bc644b9e9853\"",
+            "last_changed_timestamp": 1404266571795,
+            "md5sum": "e9960995974979445b03bc644b9e9853",
+            "path": "argo/argo/2.25_fixed/argo-2.25_fixed.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"08cce0687047cc068b6f1bdd45b14cf4\"",
+            "last_changed_timestamp": 1404266572554,
+            "md5sum": "08cce0687047cc068b6f1bdd45b14cf4",
+            "path": "com/google/code/gson/gson/2.2.2/gson-2.2.2.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5f4a710056b492b9cbdff5d3897b402a\"",
+            "last_changed_timestamp": 1404266574550,
+            "md5sum": "5f4a710056b492b9cbdff5d3897b402a",
+            "path": "com/google/guava/guava/14.0/guava-14.0.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:02 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"0d622e2ac4368b5a33d540a9e4819e0c\"",
+            "last_changed_timestamp": 1404266571705,
+            "md5sum": "0d622e2ac4368b5a33d540a9e4819e0c",
+            "path": "com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:42 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"f6a93b7eb8083e4ced92e7e253657057\"",
+            "last_changed_timestamp": 1404266571566,
+            "md5sum": "f6a93b7eb8083e4ced92e7e253657057",
+            "path": "com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:43 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"247b45f9d2f0071ad543c14d0ff31d5c\"",
+            "last_changed_timestamp": 1404266571601,
+            "md5sum": "247b45f9d2f0071ad543c14d0ff31d5c",
+            "path": "com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"93730cef2e75762c5a1431c6d7a0c78e\"",
+            "last_changed_timestamp": 1404266571669,
+            "md5sum": "93730cef2e75762c5a1431c6d7a0c78e",
+            "path": "com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6d9d7d6c163caf74984465694d3566e7\"",
+            "last_changed_timestamp": 1404266571789,
+            "md5sum": "6d9d7d6c163caf74984465694d3566e7",
+            "path": "com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:47 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"7f97854dc04c119d461fed14f5d8bb96\"",
+            "last_changed_timestamp": 1404266572405,
+            "md5sum": "7f97854dc04c119d461fed14f5d8bb96",
+            "path": "commons-io/commons-io/2.4/commons-io-2.4.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"b168b014be0186d9e95bf3d263e3a129\"",
+            "last_changed_timestamp": 1404266572027,
+            "md5sum": "b168b014be0186d9e95bf3d263e3a129",
+            "path": "net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"cc07d371f79dc4ed2239e1101ae06313\"",
+            "last_changed_timestamp": 1404266572348,
+            "md5sum": "cc07d371f79dc4ed2239e1101ae06313",
+            "path": "net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:53 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"f60976b19661c849c5c87433045a9885\"",
+            "last_changed_timestamp": 1404266572370,
+            "md5sum": "f60976b19661c849c5c87433045a9885",
+            "path": "net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:58:57 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"1372bd4823bb1ef61e7db6724f601150\"",
+            "last_changed_timestamp": 1404266571693,
+            "md5sum": "1372bd4823bb1ef61e7db6724f601150",
+            "path": "net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:17 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"71b48e6b3e1b1dc73fe705604b9c7584\"",
+            "last_changed_timestamp": 1404266572848,
+            "md5sum": "71b48e6b3e1b1dc73fe705604b9c7584",
+            "path": "org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:10 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"7749dd7eca4403fb968ddc484263736a\"",
+            "last_changed_timestamp": 1404266574397,
+            "md5sum": "7749dd7eca4403fb968ddc484263736a",
+            "path": "org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:37 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"30e99b9386040f387fd94c26c1ac64d3\"",
+            "last_changed_timestamp": 1404266572685,
+            "md5sum": "30e99b9386040f387fd94c26c1ac64d3",
+            "path": "org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-windows.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 16:00:15 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"ce74486a7687ad7ea91dcc1fcd6977b8\"",
+            "last_changed_timestamp": 1404266573500,
+            "md5sum": "ce74486a7687ad7ea91dcc1fcd6977b8",
+            "path": "org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 15:59:49 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6a0eeaf3451ed9646b7d61a9dd8b86cc\"",
+            "last_changed_timestamp": 1404266572702,
+            "md5sum": "6a0eeaf3451ed9646b7d61a9dd8b86cc",
+            "path": "org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar",
+            "remote_changed_timestamp": "Tue, 26 Nov 2013 16:00:03 GMT"
+        },
+        {
             "base": "root",
             "etag": "\"53613549-356\"",
             "last_changed_timestamp": 1404266191538,
@@ -14,6 +166,14 @@
             "last_changed_timestamp": 1404266451199,
             "md5sum": "6d21cf208a51cad6feb716f202c0ed2b",
             "path": "Thristhart.png"
+        },
+        {
+            "base": "versions",
+            "etag": "\"2e5044f5359e82245551167a237f3167\"",
+            "last_changed_timestamp": 1404266578197,
+            "md5sum": "2e5044f5359e82245551167a237f3167",
+            "path": "1.6.4/1.6.4.jar",
+            "remote_changed_timestamp": "Tue, 01 Apr 2014 06:47:26 GMT"
         }
     ],
     "version": "1"

@@ -78,3 +78,9 @@ DEBUG	Writing account list to file.
  INFO	Downloading  "http://skins.minecraft.net/MinecraftSkins/Thristhart.png" 
  INFO	"Player skins: thristhart@gmail.com" progress: 1 / 1 
  INFO	"Player skins: thristhart@gmail.com" succeeded. 
+ INFO	"Status JSON"  started. 
+ INFO	Downloading  "http://status.mojang.com/check" 
+ INFO	"Status JSON" progress: 1 / 1 
+ INFO	"Status JSON" succeeded. 
+DEBUG	Finished loading status JSON. 
+DEBUG	Status loading succeeded. 

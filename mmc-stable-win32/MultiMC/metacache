@@ -7,6 +7,13 @@
             "md5sum": "a8a8094545267c76ad51fe276b0e9e8f",
             "path": "notifications.json",
             "remote_changed_timestamp": "Wed, 30 Apr 2014 17:39:21 GMT"
+        },
+        {
+            "base": "skins",
+            "etag": "",
+            "last_changed_timestamp": 1404266451199,
+            "md5sum": "6d21cf208a51cad6feb716f202c0ed2b",
+            "path": "Thristhart.png"
         }
     ],
     "version": "1"

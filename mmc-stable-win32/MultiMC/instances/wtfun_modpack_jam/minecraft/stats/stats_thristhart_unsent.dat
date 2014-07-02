@@ -6,7 +6,8 @@
   "stats-change":[
     {"1000":1},
     {"1001":1},
-    {"1003":1}
+    {"1003":1},
+    {"1100":54}
   ],
-  "checksum":"ca8fa1ecc8f6ada81d47fbec1bc2252c"
+  "checksum":"45a822c6f27c4aacd2738a1e9b35e251"
 }

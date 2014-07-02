@@ -9,3 +9,6 @@
 2014-07-01 19:14:38 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Map Making Tools, FMLFileResourcePack:Hardcore Questing Mode
 2014-07-01 19:14:42 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Map Making Tools, FMLFileResourcePack:Hardcore Questing Mode
 2014-07-01 19:15:36 [CLIENT] [INFO] [CHAT] This server doesn't have HQM Mode Enabled.
+2014-07-01 19:15:38 [CLIENT] [INFO] [CHAT] A new Map Making Tools version exists (v2.1.3a) for Minecraft 1.7.2. Get it here: http://adfoc.us/14766141921305
+2014-07-01 19:15:40 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 1942 to go!
+2014-07-01 19:15:40 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 67 to go!

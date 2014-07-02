@@ -141,3 +141,4 @@ DEBUG	  "1.7.0_51" "32" "C:/Program Files (x86)/Java/jre7/bin/javaw.exe"
 DEBUG	  "1.7.0_51" "32" "java" 
  INFO	Task succeeded 
  INFO	Adding  "icons/.empty" 
+ INFO	Loaded LWJGL list. 
